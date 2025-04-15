@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59ee6d7d.css",
+    "main.js": "/static/js/main.e4be90b5.js",
+    "static/media/DSC_0516.webp": "/static/media/DSC_0516.916649fe962bc273a4d3.webp",
+    "static/media/cover.mp4": "/static/media/cover.4606166768743c7081f7.mp4",
+    "static/media/DSC_0508.webp": "/static/media/DSC_0508.bb84cd4ec55ddcd29a8f.webp",
+    "static/media/DSC_0515.webp": "/static/media/DSC_0515.83992a043d656dbfa815.webp",
+    "static/media/DSC_0511.webp": "/static/media/DSC_0511.a52139bd1de991005c19.webp",
+    "static/media/DSC_0514.webp": "/static/media/DSC_0514.42bae2f71f050377cca8.webp",
+    "static/media/DSC_0512.webp": "/static/media/DSC_0512.0f0ab67f6922f5eb473a.webp",
+    "static/media/DSC_0513.webp": "/static/media/DSC_0513.e612693a04a5bbe79094.webp",
+    "static/media/DSC_0509.webp": "/static/media/DSC_0509.1a5891f75835318152c4.webp",
+    "static/media/DSC_0510.webp": "/static/media/DSC_0510.f05d04610bae49c19781.webp",
+    "static/media/workshop2.webp": "/static/media/workshop2.faac8b3ed7566fdd8c71.webp",
+    "static/media/workshop4.webp": "/static/media/workshop4.9850eb5b4c3d821d4422.webp",
+    "static/media/workshop1.webp": "/static/media/workshop1.74490f8f008d869145d2.webp",
+    "static/media/workshop6.webp": "/static/media/workshop6.fdb11e67289273df38af.webp",
+    "static/media/logo.webp": "/static/media/logo.bec98f037d9d5dbd9652.webp",
+    "static/media/wood.webp": "/static/media/wood.1065a2043b64ce4ce2e0.webp",
+    "static/media/workshop5.webp": "/static/media/workshop5.7c568072762fd94e36e8.webp",
+    "static/media/workshop3.webp": "/static/media/workshop3.b207cc34754b5fbdda30.webp",
+    "static/media/panIndia.webp": "/static/media/panIndia.982bbb56ffb34521141a.webp",
+    "static/media/topics.webp": "/static/media/topics.07147f17de21c9840741.webp",
+    "static/media/workshop7.webp": "/static/media/workshop7.3e63f671dc3cdfbbddf1.webp",
+    "static/media/class8Img.png": "/static/media/class8Img.6bc7a1ec19b27a16bbc8.png",
+    "static/media/newsletter-bg.jpeg": "/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "index.html": "/index.html",
+    "main.59ee6d7d.css.map": "/static/css/main.59ee6d7d.css.map",
+    "main.e4be90b5.js.map": "/static/js/main.e4be90b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ee6d7d.css",
+    "static/js/main.e4be90b5.js"
+  ]
+}

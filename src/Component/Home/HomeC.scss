@@ -1,0 +1,123 @@
+@import "../../css-config/mixins.scss";
+.rootContainer {
+
+margin: 0;
+.FirstBlock {
+     
+    width: 100%;
+    height: calc(100vh - 100px);
+    padding: 0;
+    margin: 0;
+    margin-top: 0;
+    position: relative;
+    z-index: -999;
+    video {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      margin: 0;
+    }
+    .contentHeading {
+      line-height: 0, 8;
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      color: white;
+      text-align: center;
+      justify-content: center;
+      top: 120px;
+      width: 100%;
+      margin: 0 auto;
+      @include md {
+        width: 1000px;
+        text-align: center;
+        left: 50%;
+        transform: translateX(-50%);
+        align-items: center;
+        justify-content: center;
+      }
+      h1 {
+        margin: 0 auto;
+        font-size: 40px;
+        @include md {
+          padding: 10px;
+          width: 400px;
+        }
+      }
+      p {
+        margin-top: 30px;
+        color: yellow;
+        font-weight: 700;
+        width: 100%;
+        padding: 10px;
+        @include md {
+          background-image: linear-gradient(to right, skyblue, black);
+          opacity: 0.8;
+          border-radius: 20px;
+          width: 70%;
+          font-size: 40px;
+          line-height: normal;
+          color: rgb(236, 236, 157);
+        }
+      }
+      hr {
+        width: 50%;
+        margin: 0 auto;
+        border: 10px solid orangered;
+      }
+    }
+
+    .panIndia {
+      text-align: center;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 200px;
+      position: absolute;
+      bottom: 0;
+
+      img {
+        margin: 0 auto;
+        opacity: 0.6;
+        width: 90px;
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+  }
+
+  /* --------------------- Second block starts here ---------------------*/
+  .main-content {
+     
+    max-width: calc(100% - 20px);
+    
+    margin: 0 auto;
+    .layout {
+      margin: 0;
+    }
+    @include md {
+      max-width: 1200px;
+    }
+  }
+  // -------------------------------------------------------
+
+  .BlockNumber3 {
+    height: 50%;
+    width: 100%;
+    background-color: rgb(63, 17, 212);
+    text-transform: uppercase;
+    h2 {
+      color: rgb(185, 185, 212);
+      padding: 10px;
+      text-align: center;
+      text-shadow: 2px 2px yellow;
+    }
+    overflow: hidden;
+    .scroll {
+      img {
+        height: 400px;
+        width: auto;
+      }
+    }
+  }
+}

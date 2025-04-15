@@ -1,0 +1,25 @@
+@import "../../css-config/mixins.scss"; 
+
+
+.scroll  {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    width: 100%;
+    height: auto;
+  }
+  
+  .scroll img {
+    padding: 10px;
+    width:100%;
+    height: auto;
+    
+
+  }
+   
+
+  imageslider{
+    height: 1000vh;
+    background-color: #333;
+  }

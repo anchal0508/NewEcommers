@@ -1,0 +1,63 @@
+@import "../../../css-config/mixins.scss";
+
+.baseContainer {
+  margin: 0;
+  padding: 20px;
+  background-image: url("../../../Component/Images/wood.webp");
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-size: contain;
+  background-attachment: fixed;
+  
+  .content {
+    font-family: Helvetica, sans-serif;
+    width: 635px;
+    padding: 10px;
+    background-color: rgba(53, 45, 45, 0.7);
+    font-size: 15px;
+    margin-right: 0;
+    margin-left: auto;
+    color: rgb(247, 246, 255);
+    text-align: justify;
+    .mainHeading {
+      color: rgb(241, 158, 13);
+      font-family: sans-serif;
+      text-transform: uppercase;
+      text-align: center;
+      padding: 10px;
+      
+
+    }
+     .subHeading{
+      text-align: center;
+     }
+     .sideHeading{
+      text-align: left;
+      color: orange;
+     }
+hr{
+  width: 75%;
+  border-top: 5px solid rgb(241, 158, 13);
+   border-radius: 5px;
+
+margin-left: auto;
+margin-right: auto;
+  
+}
+    ul {
+      margin-left: 15%;
+      li {
+        margin: 0;
+        font-weight: bolder;
+        color: rgb(240, 232, 10);
+      }
+      p {
+        margin: 10px 2px;
+        padding: 0;
+        color: rgb(244, 205, 205);
+      }
+      
+    }
+  }
+}

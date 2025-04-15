@@ -1,0 +1,59 @@
+import React from "react";
+import tiles from "../css/tiles.css"; 
+import V6 from "../video/V6.mp4";
+const class6 = () => {
+  return (
+    <>
+      <footer>
+        {/* ----------------------------- */}
+        <div className="tilePrz floLeft">
+          <video class=" tileImg" src={V6} autoPlay loop muted />
+          <h2>Python</h2>
+          <del>
+            <h4>Rs: 2000/-</h4>
+          </del>
+          <h4>Rs: 1000/-</h4>
+          <div className="tileData">Add to cart</div>
+        </div>
+        {/* ----------------------------- */}
+
+        {/* ----------------------------- */}
+        <div className="tilePrz floLeft">
+          <video class=" tileImg" src={V6} autoPlay loop muted />
+          <h2>Python</h2>
+          <del>
+            <h4>Rs: 2000/-</h4>
+          </del>
+          <h4>Rs: 1000/-</h4>
+          <div className="tileData">Add to cart</div>
+        </div>
+        {/* ----------------------------- */}
+
+        {/* ----------------------------- */}
+        <div className="tilePrz floLeft">
+          <video class=" tileImg" src={V6} autoPlay loop muted />
+          <h2>Python</h2>
+          <del>
+            <h4>Rs: 2000/-</h4>
+          </del>
+          <h4>Rs: 1000/-</h4>
+          <div className="tileData">Add to cart</div>
+        </div>
+        {/* ----------------------------- */}
+
+        {/* ----------------------------- */}
+        <div className="tilePrz floLeft">
+          <video class=" tileImg" src={V6} autoPlay loop muted />
+          <h2>Python</h2>
+          <del>
+            <h4>Rs: 2000/-</h4>
+          </del>
+          <h4>Rs: 1000/-</h4>
+          <div className="tileData">Add to cart</div>
+        </div>
+        {/* ----------------------------- */}
+      </footer>
+    </>
+  );
+};
+export default class6;

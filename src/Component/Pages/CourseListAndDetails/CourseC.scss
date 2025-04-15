@@ -1,0 +1,21 @@
+@import "../../../css-config/mixins.scss";
+
+
+.mainComtainer{
+    background-color: black;
+    color: lightgray;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+    .indexTable{
+        padding: 2px;
+        border: 2px solid lightgray;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        text-transform: uppercase;
+
+
+    }
+}

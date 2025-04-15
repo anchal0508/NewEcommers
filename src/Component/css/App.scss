@@ -1,0 +1,46 @@
+@import "../../css-config/mixins.scss";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+  
+}
+@media only screen and (max-device-width: 600px) {
+  *{
+    font-size: 25px;
+  }
+}
+body {
+  
+  background-color: #e90e0ee8;
+  overflow-x: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media only screen and (max-device-width: 600px) {
+  body {
+  width: 100%;
+  }
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.upperCase{
+  text-transform: uppercase;
+}
+.capitalize{
+  text-transform: capitalize;
+}
+.floLeft{
+  float: left;
+}
+.floRite{
+  float: right;
+}
+ del{
+  color: darkgrey;
+ }
