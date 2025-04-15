@@ -7,7 +7,7 @@ const About = () => {
     <>
       <div className="baseContainer">
       <div class="content">
-        <h1 className="mainHeading">About ABCROB -hello </h1>
+        <h1 className="mainHeading">About ABCROB -hell </h1>
         <hr/>
         <h3 className="subHeading">ABCROB TECHNOLOGIES PRIVATE LIMITED</h3>
          <hr/>
