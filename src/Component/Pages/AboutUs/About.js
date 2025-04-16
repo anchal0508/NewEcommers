@@ -9,7 +9,7 @@ const About = () => {
       <div class="content">
         <h1 className="mainHeading">ABOUT US<BR/>ABCROB TECHNOLOGIES </h1>
         <hr/>
-        <h3 className="subHeading">ABCROB TECHNOLOGIES PRIVATE LIMITED</h3>
+        <h3 className="subHeading">ABCROB TECHNOLOGIES PRIVATE LIMITED..</h3>
          <hr/>
           <p>
             Welcome to ABCROB TECHNOLOGIES PVT LTD, your trusted partner in
