@@ -10,9 +10,10 @@
   background-size: contain;
   background-attachment: fixed;
   
+  
   .content {
     font-family: Helvetica, sans-serif;
-    width: 635px;
+    width: 70%;
     padding: 10px;
     background-color: rgba(53, 45, 45, 0.7);
     font-size: 15px;
@@ -20,6 +21,10 @@
     margin-left: auto;
     color: rgb(247, 246, 255);
     text-align: justify;
+    @include md{
+      width: 635px;
+       
+    }
     .mainHeading {
       color: rgb(241, 158, 13);
       font-family: sans-serif;

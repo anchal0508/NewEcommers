@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.59ee6d7d.css",
-    "main.js": "/static/js/main.e4be90b5.js",
+    "main.css": "/static/css/main.b71827be.css",
+    "main.js": "/static/js/main.71cdcc06.js",
     "static/media/DSC_0516.webp": "/static/media/DSC_0516.916649fe962bc273a4d3.webp",
     "static/media/cover.mp4": "/static/media/cover.4606166768743c7081f7.mp4",
     "static/media/DSC_0508.webp": "/static/media/DSC_0508.bb84cd4ec55ddcd29a8f.webp",
@@ -22,15 +22,14 @@
     "static/media/workshop3.webp": "/static/media/workshop3.b207cc34754b5fbdda30.webp",
     "static/media/panIndia.webp": "/static/media/panIndia.982bbb56ffb34521141a.webp",
     "static/media/topics.webp": "/static/media/topics.07147f17de21c9840741.webp",
-    "static/media/workshop7.webp": "/static/media/workshop7.3e63f671dc3cdfbbddf1.webp",
     "static/media/class8Img.png": "/static/media/class8Img.6bc7a1ec19b27a16bbc8.png",
     "static/media/newsletter-bg.jpeg": "/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
     "index.html": "/index.html",
-    "main.59ee6d7d.css.map": "/static/css/main.59ee6d7d.css.map",
-    "main.e4be90b5.js.map": "/static/js/main.e4be90b5.js.map"
+    "main.b71827be.css.map": "/static/css/main.b71827be.css.map",
+    "main.71cdcc06.js.map": "/static/js/main.71cdcc06.js.map"
   },
   "entrypoints": [
-    "static/css/main.59ee6d7d.css",
-    "static/js/main.e4be90b5.js"
+    "static/css/main.b71827be.css",
+    "static/js/main.71cdcc06.js"
   ]
 }

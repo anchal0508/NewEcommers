@@ -1,6 +1,6 @@
-import React from "react"; 
+import React from "react";
 import "../Newsletter/Newsletter.scss";
-import {FaFacebookF, FaYoutube, FaInstagram, FaLinkedin} from "react-icons/fa";
+import { FaFacebookF, FaYoutube, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const Newsletter = () => {
   return (
@@ -13,34 +13,35 @@ const Newsletter = () => {
           <span className="big-text">Signup for latest updates and offers</span>
 
           <div className="form">
-            <input type="text" placeholder="Email Address"/>
-            <button>Subscribe</button>
+            {/* <input type="text" placeholder="Email Address"/> */}
+            <a href="https://whatsapp.com/channel/0029Vb4v9oFDeONEbXgcYE1E" target="_blank"
+              rel="noopener noreferrer"> <button  >Subscribe</button></a>
           </div>
 
           <div className="text">Will be used in accordance with our Privacy Policy </div>
 
           <div className="social-icons">
-            
+
             <div className="icon">
-              <FaFacebookF size={14}/>
+              <FaFacebookF size={14} />
             </div>
-            
+
             <div className="icon">
-              <FaYoutube size={14}/>
+              <FaYoutube size={14} />
             </div>
-            
+
             <div className="icon">
-              <FaLinkedin size={14}/>
+              <FaLinkedin size={14} />
             </div>
-            
+
             <div className="icon">
-              <FaInstagram size={14}/>
+              <FaInstagram size={14} />
             </div>
 
           </div>
 
         </div>
-      </div> 
+      </div>
     </>
   );
 };

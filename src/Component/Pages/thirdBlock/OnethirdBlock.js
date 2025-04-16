@@ -15,8 +15,7 @@ import workshop3 from "../../Images/workshop/workshop3.webp";
 import workshop4 from "../../Images/workshop/workshop4.webp";
 import workshop5 from "../../Images/workshop/workshop5.webp";
 import workshop6 from "../../Images/workshop/workshop6.webp";
-import workshop7 from "../../Images/workshop/workshop7.webp";
-
+ 
 
 const thirdBlock = () => {
    
@@ -46,8 +45,7 @@ const thirdBlock = () => {
       <img src={workshop4} alt="workshops in India" />
       <img src={workshop5} alt="workshops in India" />
       <img src={workshop6} alt="workshops in India" />
-      <img src={workshop7} alt="workshops in India" />
-      </marquee>
+       </marquee>
     </div>
     
   </div>
