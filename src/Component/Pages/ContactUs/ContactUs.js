@@ -5,13 +5,13 @@ const ContactUs = () => {
     <>
       <div className="baseContainer">
         <div className="content">
-        <h1 className="mainHeading">ContactUs </h1>
+        <h1 className="mainHeading">ContactUs-- </h1>
         <hr/>
         <p >
           We’d love to hear from you! Whether you have questions about our
           training programs, need assistance with enrollment, or want to learn
           more about how we can help you build a successful career in IT, feel
-          free to get in touch with us.
+          free to get in touch with us.____
         </p>
         <hr/>
         <h2 className="subHeading">Visit Us:</h2>
